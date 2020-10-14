@@ -1,2 +1,2 @@
-# Matematica-Discreta
-Todo sobre el área de Matematica Discreta (Grafos, Teoria de Números, etc)
+# Discrete Math
+Everything about the area of Discrete Mathematics (Graphs, Number Theory, etc)
